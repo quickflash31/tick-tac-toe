@@ -12,5 +12,10 @@
     "express": "~4.16.1",
     "jquery": "^3.5.1",
     "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "grunt-beanstalk": "^0.1.0",
+    "grunt-contrib-jshint": "^3.0.0"
   }
 }
